@@ -1,5 +1,11 @@
- 👋 Hi, I’m @AnnaTernova.<br>
-- 💻 I'm a Front-end Developer.<br>
+<h3 align="center">
+Hi there, I'm @AnnaTernova.  👋
+</h3>
+ 
+ <h2 align="center">
+ I'm a Front-end Developer💻!
+</h2> 
+ 
 - 💞️ I'm seeking for opportunity to transform ideas into digital reality. <br>
 - 🌱 I'm passionate about creating software and tools to make a difference in people's lives.
 -  :love_letter:	 You can contact me at annaternova@icloud.com.
@@ -18,3 +24,15 @@
 <b>Socials:</b><br>
  🤝 Connect with me:<br>
 
+[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][3]
+[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][4]
+
+
+<!-- To Link your profile to the media buttons -->
+
+[1]: https://www.facebook.com/anna.ternova12
+[2]: https://instagram.com/annternova
+[3]: https://www.linkedin.com/in/anna-ternova-6b0342273
+[4]: https://github.com/AnnaTernova
