@@ -24,6 +24,7 @@ Hi there, I'm @AnnaTernova.<br> Welcome to my GitHub profile.  👋
 </div> <br>
 <h3>🌐 Socials:</h3>
  <b>🤝 Connect with me:</b><br>
+ 
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][3]
