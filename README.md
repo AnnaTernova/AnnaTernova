@@ -10,7 +10,7 @@ Hi there, I'm @AnnaTernova.<br> Welcome to my GitHub profile.  👋
 - 💞️ I'm seeking for opportunity to transform ideas into digital reality. <br>
 - 🌱 I'm passionate about creating software and tools to make a difference in people's lives.
 
-### About my experience 
+### About my experience <hr>
 I'm extremely passionate about programming. My main interests revolve around MERN technologies (MongoDB, Express.js, React.js, Node.js), which I actively work with in my daily job. Over this time, I've gained a solid foundation in these technologies and I'm constantly expanding my knowledge.
 
 ### My projects <hr>
