@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there, I'm @AnnaTernova. Welcome to my GitHub profile.  👋
+Hi there, I'm @AnnaTernova.<br> Welcome to my GitHub profile.  👋
 </h1>
  
  <h2 align="center">
