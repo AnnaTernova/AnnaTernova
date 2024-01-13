@@ -13,10 +13,7 @@ Hi there, I'm @AnnaTernova.<br> Welcome to my GitHub profile.  👋
 ### My projects 
 On my GitHub profile, you'll find a variety of projects that I've worked on, both as part of my learning journey and in practical applications. I strive to develop my skills by creating web applications that are both functional and visually appealing. I enjoy the opportunity to share my projects and code with other programmers.
 
-
-
-
-<h3>💻 Skills:</h3> <br>
+<h3>💻 Skills</h3> <br>
 <div>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -25,14 +22,13 @@ On my GitHub profile, you'll find a variety of projects that I've worked on, bot
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
 	
 ### Contact 
-If you're interested in collaborating or discussing programming, feel free to get in touch. You can find me on Facebook.
-
+If you're interested in collaborating or discussing programming, feel free to get in touch. 
 Thank you for visiting my GitHub profile, and feel free to explore my projects!
 -  :love_letter:	 You can contact me at annaternova@icloud.com.
 	
 </div> <br>
-<h3>🌐 Socials:</h3>
- :love_letter:	 You can contact me at annaternova@icloud.com.
+<h3>🌐 Socials</h3>
+
  <b>🤝 Connect with me:</b><br>
  
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
