@@ -10,8 +10,6 @@ Hi there, I'm @AnnaTernova.<br> Welcome to my GitHub profile.  👋
 - 💞️ I'm seeking for opportunity to transform ideas into digital reality. <br>
 - 🌱 I'm passionate about creating software and tools to make a difference in people's lives.
 
-Hi there! I'm Sebastian. Welcome to my GitHub profile.
-
 ### About my experience
 
 I've been programming for nearly 2 years and I'm extremely passionate about this field. My main interests revolve around MERN technologies (MongoDB, Express.js, React.js, Node.js), which I actively work with in my daily job. Over this time, I've gained a solid foundation in these technologies and I'm constantly expanding my knowledge.
