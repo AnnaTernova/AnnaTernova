@@ -7,7 +7,6 @@ Hi there, I'm @AnnaTernova.<br> Welcome to my GitHub profile.  👋
 </h2> 
 
 <h3>About Me</h3> <hr>
- 
 - 💞️ I'm seeking for opportunity to transform ideas into digital reality. <br>
 - 🌱 I'm passionate about creating software and tools to make a difference in people's lives.
 -  :love_letter:	 You can contact me at annaternova@icloud.com.
