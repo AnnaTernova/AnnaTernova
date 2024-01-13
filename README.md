@@ -6,7 +6,7 @@ Hi there, I'm @AnnaTernova.<br> Welcome to my GitHub profile.  👋
  I'm a Front-end Developer💻!
 </h2> 
 
-<h2>About Me</h2> <hr>
+<h2>About Me</h2> 
 - 💞️ I'm seeking for opportunity to transform ideas into digital reality. <br>
 - 🌱 I'm passionate about creating software and tools to make a difference in people's lives.
 -  :love_letter:	 You can contact me at annaternova@icloud.com.
