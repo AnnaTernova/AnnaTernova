@@ -1,6 +1,6 @@
-<h3 align="center">
-Hi there, I'm @AnnaTernova.  👋
-</h3>
+<h1 align="center">
+Hi there, I'm @AnnaTernova. Welcome to my GitHub profile.  👋
+</h1>
  
  <h2 align="center">
  I'm a Front-end Developer💻!
