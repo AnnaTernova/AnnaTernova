@@ -24,7 +24,7 @@ On my GitHub profile, you'll find a variety of projects that I've worked on, bot
 ### Contact 
 If you're interested in collaborating or discussing programming, feel free to get in touch. 
 Thank you for visiting my GitHub profile, and feel free to explore my projects!
--  :love_letter:	 You can contact me at annaternova@icloud.com.
+  :love_letter:	 You can contact me at annaternova@icloud.com.
 	
 </div> <br>
 <h3>🌐 Socials</h3>
