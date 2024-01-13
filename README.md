@@ -9,6 +9,26 @@ Hi there, I'm @AnnaTernova.<br> Welcome to my GitHub profile.  👋
 <h2>💫 About Me:</h2> 
 - 💞️ I'm seeking for opportunity to transform ideas into digital reality. <br>
 - 🌱 I'm passionate about creating software and tools to make a difference in people's lives.
+
+Hi there! I'm Sebastian. Welcome to my GitHub profile.
+
+### About my experience
+
+I've been programming for nearly 2 years and I'm extremely passionate about this field. My main interests revolve around MERN technologies (MongoDB, Express.js, React.js, Node.js), which I actively work with in my daily job. Over this time, I've gained a solid foundation in these technologies and I'm constantly expanding my knowledge.
+
+### My projects
+
+On my GitHub profile, you'll find a variety of projects that I've worked on, both as part of my learning journey and in practical applications. I strive to develop my skills by creating web applications that are both functional and visually appealing. I enjoy the opportunity to share my projects and code with other programmers.
+
+### My goals
+
+My main goal is to continuously grow my knowledge and programming skills. I aim to further specialize in the MERN stack and explore new technologies that enable me to build innovative solutions. Additionally, I'd like to actively engage with the programming community, share knowledge, and collaborate with fellow technology enthusiasts.
+
+### Contact
+
+If you're interested in collaborating or discussing programming, feel free to get in touch. You can find me on Facebook.
+
+Thank you for visiting my GitHub profile, and feel free to explore my projects!
 -  :love_letter:	 You can contact me at annaternova@icloud.com.
 
 
@@ -23,6 +43,7 @@ Hi there, I'm @AnnaTernova.<br> Welcome to my GitHub profile.  👋
 	
 </div> <br>
 <h3>🌐 Socials:</h3>
+ :love_letter:	 You can contact me at annaternova@icloud.com.
  <b>🤝 Connect with me:</b><br>
  
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
