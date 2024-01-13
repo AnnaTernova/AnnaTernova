@@ -22,7 +22,7 @@ Hi there, I'm @AnnaTernova.<br> Welcome to my GitHub profile.  👋
 
 	
 </div> <br>
-<h3>🌐 Socials:</h3><br>
+<h3>🌐 Socials:</h3>
  🤝 Connect with me:<br>
 
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
