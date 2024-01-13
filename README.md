@@ -6,7 +6,7 @@ Hi there, I'm @AnnaTernova.<br> Welcome to my GitHub profile.  👋
  I'm a Front-end Developer💻!
 </h2> 
 
-<h2>💫About Me</h2> 
+<h2>💫 About Me:</h2> 
 - 💞️ I'm seeking for opportunity to transform ideas into digital reality. <br>
 - 🌱 I'm passionate about creating software and tools to make a difference in people's lives.
 -  :love_letter:	 You can contact me at annaternova@icloud.com.
@@ -22,7 +22,7 @@ Hi there, I'm @AnnaTernova.<br> Welcome to my GitHub profile.  👋
 
 	
 </div> <br>
-<b>Socials:</b><br>
+<h3>🌐 Socials:</h3><br>
  🤝 Connect with me:<br>
 
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
