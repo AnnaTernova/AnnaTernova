@@ -1,19 +1,23 @@
 <h1 align="center">
-Hi there, I'm @AnnaTernova.<br> Welcome to my GitHub profile.  👋
+👋 Hi there, I'm @AnnaTernova.<br> 
 </h1>
  
- <h2 align="center">
- I'm a Front-end Developer💻!
-</h2> 
+ <h3 align="center">
+ Frontend Developer • UI/UX Enthusiast • Lifelong Learner
+</h3> 
+
+Welcome to my GitHub! I build user-friendly, scalable web applications with a passion for responsive layouts, clean code, and seamless dark/light themes. Let me show you what I do and how I can help bring your ideas to life.
 
 <h2>💫 About Me:</h2> 
-- 💞️ I'm seeking for opportunity to transform ideas into digital reality. <br>
-- 🌱 I'm passionate about creating software and tools to make a difference in people's lives.
+• Freelance frontend developer <br>
+• Strong foundation in JavaScript, HTML, and CSS (including CSS Grid, Flexbox, SCSS)<br>
+• Experience with vanilla JS and modern frameworks (React, Vue)<br>
+• Passionate about accessibility, responsive design, and performance<br>
 
-### My projects 
+<h2>💼 My projects </h2>
 On my GitHub profile, you'll find a variety of projects that I've worked on, both as part of my learning journey and in practical applications. I strive to develop my skills by creating web applications that are both functional and visually appealing. I enjoy the opportunity to share my projects and code with other programmers.
 
-<h3>💻 Skills</h3> <br>
+<h3>💻 Skills</h3> 
 <div>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -23,13 +27,15 @@ On my GitHub profile, you'll find a variety of projects that I've worked on, bot
 
 ### My Portfolio Website
 https://portfolio-aternova.netlify.app/
- 
-### Contact 
+ <hr>
+<h3>📫 Get in Touch</h3>
 If you're interested in collaborating or discussing programming, feel free to get in touch. 
 Thank you for visiting my GitHub profile, and feel free to explore my projects!<br>
-  💌 You can contact me at annaternova@icloud.com.
+  <h4>💌 Feel free to reach out: </h4>
+• LinkedIn: Anna Ternova <br>
+• Email: annaternova@icloud.com <br>
 	
-</div> <br>
+</div> 
 <h3>🌐 Socials</h3>
 
  <b>🤝 Connect with me:</b><br>
@@ -46,3 +52,7 @@ Thank you for visiting my GitHub profile, and feel free to explore my projects!<
 [2]: https://instagram.com/annternova
 [3]: https://www.linkedin.com/in/anna-ternova-6b0342273
 [4]: https://github.com/AnnaTernova
+
+<h3>❤️ Open to Collaboration</h3>
+
+If you're looking for someone to help with your next web project—especially anything UI-focused, responsive, or accessibility-centered—I'd love to hear from you. Let’s connect!
