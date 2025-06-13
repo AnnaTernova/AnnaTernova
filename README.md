@@ -3,7 +3,7 @@
 </h1>
  
  <h3 align="center">
- Frontend Developer • UI/UX Enthusiast • Lifelong Learner
+ Frontend Developer • React Enthusiast • Lifelong Learner
 </h3> 
 
 Welcome to my GitHub! I build user-friendly, scalable web applications with a passion for responsive layouts, clean code, and seamless dark/light themes. Let me show you what I do and how I can help bring your ideas to life.
