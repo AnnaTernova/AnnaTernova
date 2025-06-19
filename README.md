@@ -25,8 +25,7 @@ On my GitHub profile, you'll find a variety of projects that I've worked on, bot
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
 
-### My Portfolio Website
-https://portfolio-aternova.netlify.app/
+
  <hr>
 <h3>📫 Get in Touch</h3>
 If you're interested in collaborating or discussing programming, feel free to get in touch. 
