@@ -11,7 +11,7 @@ Welcome to my GitHub! I build user-friendly, scalable web applications with a pa
 <h2>💫 About Me:</h2> 
 • Freelance frontend developer <br>
 • Strong foundation in JavaScript, HTML, and CSS (including CSS Grid, Flexbox, SCSS)<br>
-• Experience with JS and modern frameworks (React, Vue)<br>
+• Experience with JS and modern frameworks (React)<br>
 • Passionate about accessibility, responsive design, and performance<br>
 
 <h2>💼 My projects </h2>
@@ -31,7 +31,7 @@ On my GitHub profile, you'll find a variety of projects that I've worked on, bot
 If you're interested in collaborating or discussing programming, feel free to get in touch. 
 Thank you for visiting my GitHub profile, and feel free to explore my projects!<br>
   <h4>💌 Feel free to reach out: </h4>
-• LinkedIn: Anna Ternova <br>
+• LinkedIn: www.linkedin.com/in/anna-ternova-dev <br>
 • Email: annaternova@icloud.com <br>
 	
 </div> 
@@ -49,7 +49,7 @@ Thank you for visiting my GitHub profile, and feel free to explore my projects!<
 
 [1]: https://www.facebook.com/anna.ternova12
 [2]: https://instagram.com/annternova
-[3]: https://www.linkedin.com/in/anna-ternova-6b0342273
+[3]: https://www.linkedin.com/in/anna-ternova-dev
 [4]: https://github.com/AnnaTernova
 
 <h3>❤️ Open to Collaboration</h3>
