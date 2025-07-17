@@ -11,7 +11,7 @@ Welcome to my GitHub! I build user-friendly, scalable web applications with a pa
 <h2>💫 About Me:</h2> 
 • Freelance frontend developer <br>
 • Strong foundation in JavaScript, HTML, and CSS (including CSS Grid, Flexbox, SCSS)<br>
-• Experience with vanilla JS and modern frameworks (React, Vue)<br>
+• Experience with JS and modern frameworks (React, Vue)<br>
 • Passionate about accessibility, responsive design, and performance<br>
 
 <h2>💼 My projects </h2>
